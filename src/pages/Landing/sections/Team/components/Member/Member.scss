@@ -1,0 +1,33 @@
+.member-container {
+  margin-top: 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.member-picture {
+  margin-bottom: 30px;
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  border-radius: 50%;
+
+  img {
+    transition: 1s;
+    height: 100%;
+    margin-left: -39px;
+  }
+}
+
+.member-info {
+  text-align: center;
+  h1 {
+    font-size: 24px;
+    color: white;
+  }
+
+  h2 {
+    font-size: 20px;
+  }
+}

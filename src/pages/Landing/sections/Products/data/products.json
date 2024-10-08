@@ -1,0 +1,146 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"name": "BHB COFFEE",
+			"price": "$900.00",
+			"src": "/assets/plennia/products/bhb.png",
+			"comments": "ESTOS PRODUCTOS NO SON MEDICAMENTOS",
+			"bennefits": [
+				"Promueve la cetosis en el cuerpo.",
+				"Apoya la salud cerebral y proporciona energía.",
+				"Apoya a quemar grasa y disminuir el apetito.",
+				"Mejora la concentracion y da mayor claridad mental."
+			],
+			"ingredients": "Café negro tostado instantáneo, Magnesio beta-hidroxibutirato, Calcio beta-hidroxibutirato, Sodio beta-hidroxibutirato, Potasio beta-hidroxibutirato y Dioxido de silicio."
+		},
+		{
+			"id": 2,
+			"name": "COLLAGEN COFFEE LATTE",
+			"price": "$675.00",
+			"src": "/assets/plennia/products/latte.png",
+			"comments": "ESTOS PRODUCTOS NO SON MEDICAMENTOS",
+			"bennefits": [
+				"Promueve la mejora, la hidratación y firmeza",
+				"de la piel y combate el envejecimiento.",
+				"Puede ayudar a fortalecer el cabello y las uñas.",
+				"Mejora el rendimiento físico y apoyo a las articulaciones."
+			],
+			"ingredients": "Café negro tostado instantáneo, Péptidos de Colágeno hidrolizado puro de bovino I, II y III, Colágeno hidrolizado marino(Pescado), Ácido hialurónico, Biotina y Metilsulfonilmetano (MSM)."
+		},
+		{
+			"id": 3,
+			"name": "DAILY SHAKE",
+			"price": "$750.00",
+			"src": "/assets/plennia/products/shake.png",
+			"comments": "ESTOS PRODUCTOS NO SON MEDICAMENTOS",
+			"bennefits": [
+				"El alimento perfecto para reponer los nutrientes.",
+				"Promueve el apoyo a la perdida y control de peso.",
+				"Vitaminas y Minerales.",
+				"Apto para toda la familia."
+			],
+			"ingredients": "Proteína de chícharo, Aislado de proteína de soya, Fibra de inulina de agave, Goma orgánica, Canela, Extracto de hoja de stevia, Mezcla de minerales PLENNIA, Mezcla de vitaminas PLENNIA, Dióxido de silicio."
+		},
+		{
+			"id": 4,
+			"name": "DTX TEA PLENNIA",
+			"price": "$350.00",
+			"src": "/assets/plennia/products/dtx.png",
+			"comments": "ESTOS PRODUCTOS NO SON MEDICAMENTOS",
+			"bennefits": [
+				"Promueve la eliminación de toxinas en el cuerpo y colon.",
+				"Mejora el funcionamiento del sistema digestivo.",
+				"Promueve la perdida de peso.",
+				"Ayuda a mejorar los problemas de estreñimiento."
+			],
+			"ingredients": "Linaza en polvo orgánica, Hojas de malva, Malvavisco, Manzanilla en polvo, Té de limón, Flor de jamaica en polvo. Sabor natural berries."
+		},
+		{
+			"id": 5,
+			"name": "ENBIO CAPS",
+			"price": "$675.00",
+			"src": "/assets/plennia/products/enbio.png",
+			"comments": "ESTOS PRODUCTOS NO SON MEDICAMENTOS",
+			"bennefits": [
+				"Mejora la absorción de nutrientes.",
+				"Promueve una mejor función digestiva.",
+				"Ayuda a generar un equilibrio en nuestra microbiota.",
+				"Promueve el refuerzo de nuestro sistema inmulógico.",
+				"Mejorar el funcionamiento cerebral."
+			],
+			"ingredients": "Mezcla de Enzimas, Prebióticos y Probióticos PLENNIA y Extracto de Pimienta negra con piperina al 95%"
+		},
+		{
+			"id": 6,
+			"name": "EPIGEN CAPS",
+			"price": "$1,500.00",
+			"src": "/assets/plennia/products/epigen.png",
+			"comments": "ESTOS PRODUCTOS NO SON MEDICAMENTOS",
+			"bennefits": [
+				"Promueve la protección contra el estrés oxidativo.",
+				"Apoya al refuerzo del sistema inmunológico.",
+				"Ayuda a la reducción de inflamación crónica.",
+				"Promueve la vitalidad y balance celular."
+			],
+			"ingredients": "Extracto de hoja de Romero, de rizoma de jengibre, capullo de Sófora, Ácido de alfa lipoico, Extracto de Pimineta negra con piperina al 95%."
+		},
+		{
+			"id": 7,
+			"name": "EPURE CAPS",
+			"price": "$525.00",
+			"src": "/assets/plennia/products/epure.png",
+			"comments": "ESTOS PRODUCTOS NO SON MEDICAMENTOS",
+			"bennefits": [
+				"Promueve la eliminación de toxinas en el Higado.",
+				"Mejora el rendimiento y funciones del higado.",
+				"Promueve la eliminación de toxinas en los riñones.",
+				"Mejora el rendimiento y funciones de los riñones.",
+				"Ayuda a la reducción de inflamación crónica."
+			],
+			"ingredients": "Extracto de Boldo, Flor de Jamaica en polvo, Extracto de Cardo mariano, Extracto de Casia amar y de Hierba del sapo."
+		},
+		{
+			"id": 8,
+			"name": "FUNGI COFFE",
+			"price": "$600.00",
+			"src": "/assets/plennia/products/fungi.png",
+			"comments": "ESTOS PRODUCTOS NO SON MEDICAMENTOS",
+			"bennefits": [
+				"Apoya a reforzar el sistema Inmune.",
+				"Mejora del rendimiento cognitivo y neuronal.",
+				"Aumento en los niveles de energía.",
+				"Promueve la eliminación de radicales libres.",
+				"Promueve el control de glucosa en la sangre."
+			],
+			"ingredients": "Café negro tostado instantáneo, (Coffea arabica), Extracto de Shiitake (Lentinula edodes), Extracto de Agaricus subrefescens, Extracto de Cordyceps (Cordyceps sinensis), Extracto de Melena de león (Hericum erinaceus), Extracto de Antrodia forte (Antrodia Camphorata), Extracto de Maitake (Grifola frondosa), Extracto de Hongo reishi (Ganoderma lucidum) Extracto de Cola de pavo(Trametes versicolor), Extracto de Chaga (Inonotus obliquus) y Dióxido de silicio."
+		},
+		{
+			"id": 9,
+			"name": "NITROX",
+			"price": "$750.00",
+			"src": "/assets/plennia/products/nitrox.png",
+			"comments": "ESTOS PRODUCTOS NO SON MEDICAMENTOS",
+			"bennefits": [
+				"Promueve la producción de óxido nítrico en el cuerpo.",
+				"Mejora la circulación arterial.",
+				"Mejora el rendimiento físico y sexual.",
+				"Ayuda a mejorar los niveles de energía."
+			],
+			"ingredients": "L-Arginina, L-Cirulina, Betabel, Extracto de Noni, Moringa y Espinaca roja. Sabor natural de mango."
+		},
+		{
+			"id": 10,
+			"name": "ZENNAX",
+			"price": "$600.00",
+			"src": "/assets/plennia/products/zennax.png",
+			"comments": "ESTOS PRODUCTOS NO SON MEDICAMENTOS",
+			"bennefits": [
+				"Ayuda a regular los niveles de estrés.",
+				"Mejora las transtornos del sueño.",
+				"Promueve la disminución de ataques de ansiedad y afecciones del estado de ánimo."
+			],
+			"ingredients": "L-Teanina, L-Glutamina, Extracto de Albahaca, Cordiceps, Melatonina, Valeriana y Lúpulo. Sabor menta."
+		}
+	]
+}

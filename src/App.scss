@@ -1,0 +1,43 @@
+:root {
+  --color-p-1: #005264;
+  --color-p-2: #01A88C;
+  --color-p-3: #615E5B;
+  --color-p-4: #2AB69F;
+  --color-p-5: #7CC45A;
+  --color-p-6: #D8DF24;
+  --color-p-7: #D7E7E4;
+  --color-p-8: #e9e9e9;
+  --color-p-9: #0B7463;
+}
+
+.loading {
+  background-color: var(--color-p-2) !important;
+  width: 4120px !important;
+  height: 1080px !important;
+  img {
+    animation: blinker 1.5s linear infinite;
+    transition: 1s;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 200px;
+  }
+}
+
+.pointer {
+  &:hover {
+      cursor: pointer;
+  }
+}
+
+.hidden {
+  display: none !important;
+}
+
+@keyframes blinker {
+  30% {
+    opacity: 0;
+  }
+}
+  

@@ -1,0 +1,92 @@
+.header {
+  background-color: #181818;
+  .header-top {
+    background-color: var(--color-p-1);
+    height: 10%;
+
+    h2 {
+      text-align: center;
+      color: var(--color-p-2);
+      font-family: Dancing Script;
+      font-size: 26pt;
+      font-weight: 600;
+      padding: 5px;
+    }
+
+    button {
+      border-radius: 0% !important;
+      font-weight: 100 !important;
+    }
+
+    .login-btn {
+      background-color: var(--color-p-4);
+      color: #fff;
+    }
+
+    .login-btn:hover {
+      background-color: var(--color-p-5);
+    }
+
+    .signup-btn {
+      background-color: var(--color-p-7);
+      color: var(--color-p-1);
+    }
+
+    .signup-btn:hover {
+      background-color: var(--color-p-5);
+    }
+  }
+
+  .header-bottom {
+    margin-left: 10%;
+    margin-right: 10%;
+
+    .header-logo {
+      padding-left: 20px;
+      width: fit-content;
+      img {
+        height: 75px;
+      }
+      cursor: pointer;
+    }
+    
+    .header-branch {
+      h1 {
+        color: lightgray;
+        border-radius: 15px;
+        font-weight: 600;
+        font-size: 18px;
+        float: right !important;
+      }
+      span {
+        color: #727272;
+        margin-block-start: 1.67em;
+        margin-block-end: 1.67em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+      }
+    }
+  }
+}
+
+
+
+@media screen and (max-width: 980px) {
+  .header {
+    .header-top {
+      h2 {
+        font-size: 16pt;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .header {
+    .header-top {
+      h2 {
+        font-size: 18pt;
+      }
+    }
+  }
+}
