@@ -1,4 +1,4 @@
-import { Slider, Products } from "./sections";
+import { Slider } from "./sections";
 import { Membership } from "./sections";
 
 export const Landing = () => {
@@ -10,7 +10,6 @@ export const Landing = () => {
 	return (
 		<div className="hidden">
 			<Slider slides={slides} />
-			<Products />
 			<Membership />
 		</div>
 	);
